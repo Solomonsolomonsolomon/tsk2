@@ -10,6 +10,12 @@ This README will guide you on how to set up and run the application locally for 
 - [API Documentation](#api-documentation)
 - [License](#license)
 
+- **Create (POST):** [Create Endpoint](https://hngtask2-zslw.onrender.com/api/) (HTTP POST)
+- **Read all (GET):** [Read Endpoint](https://hngtask2-zslw.onrender.com/api) (HTTP GET)
+- **Read all (GET):** [Read Endpoint](https://hngtask2-zslw.onrender.com/api/:id) (HTTP GET)
+- **Update (PUT):** [Update Endpoint](https://hngtask2-zslw.onrender.com/api/:id) (HTTP PUT)
+- **Delete (DELETE):** [Delete Endpoint](https://hngtask2-zslw.onrender.com/api/:id) (HTTP DELETE)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -75,10 +81,8 @@ endpoint /test
 
 ## Liscence
 
-
 This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this software as permitted by the license.
 
 ---
 
-
-"# tsk2" 
+"# tsk2"
